@@ -1,3 +1,5 @@
+#### A modified version of the trex game for Recurse Center's Creative Coding. The prompt was "Everybody has a hungry heart". Paired with Teresa Ibarra. It's a T-rex who has a hungry heart and is eating dinosaur chicken nuggets. I refuse to explain our thought process.
+
 ## t-rex-runner
 
 the trex runner game extracted from chrome offline err page.
